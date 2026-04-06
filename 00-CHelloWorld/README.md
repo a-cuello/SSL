@@ -1,2 +1,4 @@
 ## TP0
-### Hello World!
+GCC
+15.2.0
+C23
